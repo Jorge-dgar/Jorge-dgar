@@ -1,6 +1,6 @@
 ## Heeey! I'm Jorge 👋
 
-I’m someone who loves both the world of design and technology, and my journey has given me the chance to combine these passions in creative ways. I hold two higher education degrees: the first in Personal and Corporate Image Consulting, and the second in Web Application Development.
+I’m a Developer and Consulting who loves both the world of design and technology, and my journey has given me the chance to combine these passions in creative ways. I hold two higher education degrees: the first in Personal and Corporate Image Consulting, and the second in Web Application Development.
 
 ⚡ In my first degree, I gained valuable experience in event organization and working with corporate imagery for various companies. Although it wasn't my main focus, it helped me develop strong organizational skills and an understanding of how visuals can impact a brand's identity.
 
